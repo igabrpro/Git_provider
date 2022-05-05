@@ -3,6 +3,12 @@
 
 ## A simple terraform project to manage a GitHub repository under an organization.
 
+### Repo content
+```
+main.tf - Terraform configuration file 
+output.tf - this file contains the code to output the values of the repo that will be created
+variables.tf - this file contains the variables for the repo
+```
 ### Prerequisites
 
 #### To build the Terraform project
